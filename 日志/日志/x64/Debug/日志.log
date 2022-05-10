@@ -1,0 +1,4 @@
+﻿  log.cpp
+C:\Users\18533\source\repos\日志\日志\log.cpp(278,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\18533\source\repos\日志\日志\log.cpp(402,68): warning C4244: “参数”: 从“time_t”转换到“uint32_t”，可能丢失数据
+  日志.vcxproj -> C:\Users\18533\source\repos\日志\x64\Debug\日志.exe
